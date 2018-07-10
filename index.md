@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV Alberto Roque Carrizo Fernández
+title: Alberto Roque Carrizo Fernández
 ---
 # Alberto Roque Carrizo Fernández
 
@@ -11,27 +11,27 @@ title: CV Alberto Roque Carrizo Fernández
 
 ## Work experience
 
-`Jan 2017 - Now`
+`2017-Now`
 __Investel Technologies__ 
 
-`Sept 2015 - Apr 2016`
+`2015-16`
 __EDP__ 
 
-`Apr 2015 - Jun 2015`
+`2015`
 __Tuinsa Norte__ 
 
 
 ## Projects
 
 `Alpha`
-__Tuinsa Norte__ 
+__Iconeec__ 
 
 `V2.2`
 __Rock Slide__ 
 
 ## Education
 
-`2011-2015`
+`2011-15`
 __Software Engineering__
 
 ### Complementary formation
@@ -40,10 +40,17 @@ __Software Engineering__
 __Android game development course__
 
 ## Technologies
-
-### Currently
-
-### Knowledge
+* C#
+* Javascript
+* Java
+* HTML
+* CSS and SASS
+* Azure
+* .NET Core
+* AngularJs
+* SQL
+* Git/Mercurial
+* Unity3D
 
 ## Languages
 
