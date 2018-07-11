@@ -38,7 +38,7 @@ __Rock Slide__ Game for Android devices developed with Unity3D and integrated wi
 `2011-16`
 __Software Engineering__ “Grado en ingeniería informática del software” Universidad de Oviedo.
 
-### Complementary formation
+### Courses
 
 `2013`
 __Android game development course__ “Diseño y desarrollo de videojuegos y material de
