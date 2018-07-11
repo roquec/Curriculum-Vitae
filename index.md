@@ -9,16 +9,20 @@ title: Alberto Roque Carrizo Fernández
 | <a href="https://www.linkedin.com/in/roque-carrizo-fernandez/">LinkedIn</a>
 </div>
 
+## Currently
+
+I am a fullstack web developer based in Barcelona. I work at __Investel Technologies__ leading the development of our .NET and AngularJs based web applications.
+
 ## Work experience
 
-`2017-Now`
-__Investel Technologies__ 
+`Jan 2017`
+__Investel Technologies__ Development of a new web application (.NET Core + Angulajs) as the new version of an existing legacy application. 
 
 `2015-16`
-__EDP__ 
+__EDP__ Internship (6 months). Implementation of new functionality on an existing ASP.NET Web Forms app followed by starting a new project to adapt the application to mobile devices. Developed a new report functionallity to generate calendar-like excell reports of orders. Started the development of a new native Android app for mobile users.
 
 `2015`
-__Tuinsa Norte__ 
+__Tuinsa Norte__ Practices (120h). Design and construction of a MySQL database based on bussiness requirements provided. Development of an Android application with Unity3D to visualize 3D models. Built a .obj file parser to import the model to Unity converting each vertex and face as needed. Once imported the camera could turn 360º around the object zoom in or out and change the background and lighting colors to get the optimal visualization.
 
 
 ## Projects
@@ -27,30 +31,39 @@ __Tuinsa Norte__
 __Iconeec__ 
 
 `V2.2`
-__Rock Slide__ 
+__Rock Slide__ Game for Android devices developed with Unity3D and integrated with Google Play Services. All the graphics were designed with Paint.net.
 
 ## Education
 
-`2011-15`
-__Software Engineering__
+`2011-16`
+__Software Engineering__ “Grado en ingeniería informática del software” Universidad de Oviedo.
 
 ### Complementary formation
 
 `2013`
-__Android game development course__
+__Android game development course__ “Diseño y desarrollo de videojuegos y material de
+entretenimiento para teléfonos móviles Android” University of Oviedo, 45h.
 
 ## Technologies
 * C#
 * Javascript
-* Java
-* HTML
-* CSS and SASS
-* Azure
-* .NET Core
-* AngularJs
 * SQL
-* Git/Mercurial
+* Java
+* HTML5
+* CSS and SASS
+* .NET Framework/Core
+* AngularJs
+* VueJs
+* Bulma
 * Unity3D
+* Azure
+* Git/Mercurial
+
+## Other merits
+
+`2014`
+__Neo4j Graph Gist Winter Challenge__ (Graph database design contest), 1º place in the
+category of “life science”, February 2014. [http://neo4j.com/blog/graph-gist-winter-challenge-winners/](http://neo4j.com/blog/graph-gist-winter-challenge-winners/)
 
 ## Languages
 
@@ -59,5 +72,4 @@ __Spanish__ Native.
 __English__ Advanced level (C2). IELTS with a 7.5 grade, April 30, 2010.
 
 
-<!-- ### Footer 
-Last updated: Jul 2018 -->
+<!-- ### Footer Last updated: Jul 2018 -->
