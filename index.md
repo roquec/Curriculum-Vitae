@@ -19,10 +19,10 @@ I am a fullstack web developer based in Barcelona. I work at __Investel Technolo
 __Investel Technologies__ Development of a new web application (.NET Core + Angulajs) as the new version of an existing legacy application. The AngularJs client consumes a REST API served by a backend built with .NET Core 2.0 using Entity framework and Dapper to access a SQL Server database and a cache managed with Redis. Tasks of interest implemented include finding and fixing multiple memory leaks within the AngularJs client, detecting performance bottlenecks like watcher count in the AngularJs client and reducing them by a factor of 10 in some places, implementing and documenting an Oauth authentication flow for external clients with IdentityServer.
 
 `2015-16`
-__EDP__ Internship (6 months). Implementation of new functionality on an existing ASP.NET Web Forms app followed by starting a new project to adapt the application to mobile devices. Developed a new report functionallity to generate calendar-like excell reports of orders. Started the development of a new native Android app for mobile users.
+__EDP__ Internship (6 months). Implementation of new functionality on an existing ASP.NET Web Forms app followed by starting a new project to adapt the application to mobile devices. Developed a new report functionality to generate calendar-like excel reports of orders. Started the development of a new native Android app for mobile users.
 
 `2015`
-__Tuinsa Norte__ Practices (120h). Design and construction of a MySQL database based on bussiness requirements provided. Development of an Android application with Unity3D to visualize 3D models. Built a .obj file parser to import the model to Unity converting each vertex and face as needed. Once imported the camera could turn 360º around the object zoom in or out and change the background and lighting colors to get the optimal visualization.
+__Tuinsa Norte__ Practices (120h). Design and construction of a MySQL database based on business requirements provided. Development of an Android application with Unity3D to visualize 3D models. Built a .obj file parser to import the model to Unity converting each vertex and face as needed. Once imported the camera could turn 360º around the object zoom in or out and change the background and lighting colors to get the optimal visualization.
 
 
 ## Projects
